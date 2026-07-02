@@ -1,0 +1,10 @@
+{
+    "email_from": "INSERISCI@gmail.com",
+    "email_to": "DESTINATARIO@gmail.com",
+    "gmail_app_password": "INSERISCI_APP_PASSWORD",
+    "ticker": "QQQ",
+    "db_path": "macro_history.db",
+    "vault_path": "C:\\Users\\Gabriel\\Desktop\\2nd-brain",
+    "send_at": "15:00",
+    "timezone": "Europe/Rome"
+}

@@ -1,0 +1,10 @@
+type,price,label,color,side
+horizontal,763.68,Breakout ▲,green,ask
+horizontal,758.99,Resistance 1 ▲,green,ask
+horizontal,754.68,Resistance 2 ▲,green,ask
+horizontal,752.43,Friction ▲,green,ask
+horizontal,750.55,SPOT (Max Pain),white,both
+horizontal,748.67,Friction ▼,red,bid
+horizontal,746.42,Support 2 ▼,red,bid
+horizontal,742.11,Support 1 ▼,red,bid
+horizontal,737.42,Breakout ▼,red,bid
