@@ -475,7 +475,7 @@ st.markdown(f"""
 
 # ── CONTROLLI (ticker, sorgente, DTE, refresh) ────────────────────
 c1,c2,c3,c4,c5,c6,c7=st.columns([.6,.6,.8,.8,.6,.4,.4],gap="small")
-with c1: st.selectbox("Ticker",["SPY","QQQ","SPX","IWM"],key="ticker_sel",label_visibility="collapsed")
+with c1: st.selectbox("Ticker",["SPY","QQQ","SPX","IWM","GLD"],key="ticker_sel",label_visibility="collapsed")
 with c2: st.selectbox("Sorgente",["Tradier","Hybrid","GEXBot","yfinance"],key="ds_src",
                        help="Tradier: OPRA live via Tradier",label_visibility="collapsed")
 with c3: st.slider("Scadenza (DTE)",0,60,step=1,key="dte_sel",label_visibility="collapsed")
